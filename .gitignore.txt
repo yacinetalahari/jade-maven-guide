@@ -1,0 +1,16 @@
+# Eclipse
+.settings/
+.classpath
+.project
+
+# Maven
+target/
+
+# Logs and OS files
+*.log
+.DS_Store
+Thumbs.db
+
+# JADE runtime files
+APDescription
+MTPS-Main-Container
